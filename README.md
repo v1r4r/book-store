@@ -1,1 +1,1 @@
-"Book store application created with React" 
+Book store application created with React
